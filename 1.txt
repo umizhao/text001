@@ -1,0 +1,46 @@
+﻿total 0
+-rw-r--r-- 1 u&m 197121 0 5月  13 09:56 1.txt
+
+
+pwd
+
+touch 1.txt
+
+ls -l >1.txt
+
+cd app
+
+mkdir css js
+
+touch css/1.css js/1.js
+
+cd js
+
+vi 1.js
+
+a/i
+
+w
+
+cd ../
+
+
+git init
+
+git config --global user.name "text1"
+
+git config --global user.email "text1@qq.com"
+
+git add *
+
+git status
+
+git commit -m
+
+touch app/1.html
+
+git add app/1.html
+
+git conmit -m "试验"
+
+
